@@ -25,5 +25,4 @@ int main()
     b=4.5;
     add(a,b);
     return 0;
-
 }
